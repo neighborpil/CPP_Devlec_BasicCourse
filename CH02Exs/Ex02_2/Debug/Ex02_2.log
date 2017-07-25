@@ -1,9 +1,0 @@
-﻿  Ex02_2.cpp
-c:\[codes]\git\cpp_basic\ch02\ex02_2\ex02_2.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
-c:\[codes]\git\cpp_basic\ch02\ex02_2\ex02_2.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
-c:\[codes]\git\cpp_basic\ch02\ex02_2\ex02_2.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
-  Ex02_2.vcxproj -> C:\[Codes]\Git\CPP_Basic\CH02\Debug\Ex02_2.exe
-  Ex02_2.vcxproj -> C:\[Codes]\Git\CPP_Basic\CH02\Debug\Ex02_2.pdb (Full PDB)
